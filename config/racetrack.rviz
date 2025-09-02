@@ -42,7 +42,7 @@ Visualization Manager:
       Covariance:
         Orientation:
           Alpha: 0.5
-          Color: 255; 255; 127
+          Color: 255; 254; 127
           Color Style: Unique
           Frame: Local
           Offset: 1
